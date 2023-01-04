@@ -9,6 +9,7 @@
 - CI/CD
 - Jenkins
 - Refactoring techniques
+- Docker
 
 📫 How to reach me ...
 - Linkedin

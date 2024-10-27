@@ -12,7 +12,7 @@
 - Docker
 
 📫 How to reach me ...
-- Linkedin
+- [Linkedin](https://www.linkedin.com/in/ailen-ramayo-dominguez/)
 
 <!---
 ardominguez/ardominguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
